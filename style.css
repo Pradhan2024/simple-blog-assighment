@@ -1,0 +1,27 @@
+.heading {
+    background-color: hsla(199, 23%, 58%, 0.765);
+    color: rgba(19, 62, 204, 0.89);
+    text-align: center;
+    padding: 10px 0px;
+    margin: 5px;
+}
+.artist h2 {
+    color: rgb(218, 181, 18);
+    text-align: left;
+}
+#ben {
+    color: burlywood;
+    text-align: left;
+}
+.art {
+    color: brown;
+    text-align: left;
+}
+#Blog {
+    color: black;
+}
+#cen {
+    background-color: aliceblue;
+    color: rgb(200, 219, 22);
+    border: 3px;
+}
